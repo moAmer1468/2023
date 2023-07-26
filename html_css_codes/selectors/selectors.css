@@ -1,0 +1,90 @@
+/* p.yara {
+    color: red;
+}
+
+div.yara {
+    color: teal;
+}
+
+div>p {
+    background-color: green;
+}
+
+div>div {
+    background-color: red;
+} */
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/*
+[title*="Div"] {
+    color: red;
+}
+
+[type='submit'] {
+    color: green;
+} */
+
+
+/* input[type='checkbox']:checked+label {
+    color: green;
+    background-color: yellow;
+}
+
+div:empty {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+input[type="text"]:disabled {
+    color: green;
+}
+
+input:disabled {
+    color: brown;
+} */
+
+
+/* input:required+span {
+    color: red;
+}
+
+input[type="text"]:required {
+    color: red;
+    background-color: aqua;
+} */
+
+input[type="text"]:required+span::before {
+    content: "*";
+    color: red;
+    font-size: 30px;
+    background-color: black;
+}
+
+div:empty {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+div:empty::after {
+    content: "";
+    height: 100%;
+    width: 5px;
+    background-color: black;
+    position: absolute;
+    top: 0%;
+    right: -10px;
+}
+
+input::placeholder {
+    color: white;
+    background-color: teal;
+}

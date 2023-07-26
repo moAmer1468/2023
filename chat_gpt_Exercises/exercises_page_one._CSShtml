@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+
+
+<html>
+
+<head>
+    <title>chat_gpt_exercise_page_one</title>
+    <meta name="description" content="This is just some exercises about html tags only uaAmer">
+    <meta charset="utf-8">
+    <style>
+        div {
+            color: red;
+            border: 2px solid black;
+            background-color: #eee;
+            font-weight: bold;
+            font-family: 'consolas';
+            text-overflow: ellipsis;
+        }
+    </style>
+</head>
+
+<body>
+    <blockquote>
+        <pre>
+            <code>
+                `
+<h2>
+    Certainly! Here are some HTML exercises for you to practice:
+
+</h2>
+        <div>
+            Exercise 1:
+            Create a basic HTML structure with the following elements:
+            - Add a heading ("h1"") that says "My First Web Page".
+            - Create a paragraph (`p`) with some dummy text of your choice.
+            - Insert an image (`img`) of your choice and provide appropriate alt text.
+
+        </div>
+         <div>
+            Exercise 2:
+            Create an ordered list (`ol`) of your favorite fruits. Include at least 5 fruits in the list.
+         </div>
+        <div>
+            Exercise 3:
+            Create an unordered list (`ul`) of your favorite movies. Include at least 3 movies in the list.
+
+        </div>
+       <div>
+        Exercise 4:
+        Create a form (`form`) with the following input fields:
+        - Text input field (`input type text`) for the user's name.
+        - Email input field (`input type email`) for the user's email address.
+        - Submit button (`input type submit`) to submit the form.
+
+       </div>
+         <div>
+            Exercise 5:
+            Create a table (`table`) to display a simple schedule with three columns: Time, Event, and Location. Include at least 3 rows of schedule data.
+         </div>
+<div>
+                Exercise 6:
+                Create a hyperlink (`a`) that links to an external website of your choice. Set the `target` attribute to open the link in a new tab.
+            </div>
+ <div>
+    Exercise 7:
+    Create a nested list structure with an ordered list (`ol`) as the parent and an unordered list (`<ul>`) as the child. Add at least 3 list items in each list.
+
+ </div>
+<div>
+    Exercise 8:
+    Create a div (div`) element and apply CSS styles to change its background color, width, and height.
+
+</div>
+     <div>
+        Exercise 9:
+        Create a span (`span`) element and use CSS to style it as bold and italic text.
+
+     </div>
+    <div>
+        Exercise 10:
+        Create a simple HTML page that includes a header section, main content section, and a footer section. Apply appropriate semantic elements (`<header>`, `<main>`, `<code>`) to each section.
+
+    </div>
+                Feel free to try out these exercises and explore different HTML tags and elements.
+                `
+                </code>
+            </pre>
+    </blockquote>
+
+    <p>Here are some complex excercises about HTMl Tags only uaAmer</p>
+
+    <div style="padding:10px">
+        Certainly! Here are some more complex HTML exercises for you: <br> Exercise 1: Create a responsive webpage that includes a navigation bar (`nav`), a header section (`header`), a main content section (`main`), and a footer section (footer`). Apply
+        appropriate styling and use media queries to make the layout adjust for different screen sizes.
+        <hr> Exercise 2: Create a form that allows users to sign up for a newsletter. Include fields for name, email address, and a checkbox for subscribing. Add validation to the form to ensure the required fields are filled out correctly.
+        <hr> Exercise 3: Build a multi-column layout using CSS Grid or Flexbox. Create a grid or flex container and place multiple elements within it to create a responsive, dynamic layout.
+        <hr> Exercise 4: Create a webpage that displays a gallery of images. Use HTML and CSS to create a grid or a gallery layout. Apply hover effects to the images, such as opacity change or image scaling.
+        <hr> Exercise 5: Build a responsive pricing table using HTML and CSS. Include multiple pricing plans with different features and prices. Make the table adjust its layout for different screen sizes.
+        <hr> Exercise 6: Design and implement a product catalog page. Create a layout that displays products with their images, titles, descriptions, and prices. Add filters or sorting options to allow users to refine their search.
+        <hr> Exercise 7: Create a registration form for a conference or event. Include fields for personal information, session preferences, and payment details. Apply appropriate form validation and display error messages when necessary.
+        <hr> Exercise 8: Design a blog page with a list of blog posts. Each post should include a title, author, date, and content. Add a sidebar with categories and a search bar for navigation.
+        <hr> Exercise 9: Implement a responsive image carousel or slider using HTML, CSS, and JavaScript. Include multiple images that automatically transition or can be navigated manually.
+        <hr> Exercise 10: Create a contact page with a contact form, address details, and a map. Implement form validation and use appropriate HTML attributes for accessibility. These exercises should provide you with some challenges to further explore and
+        practice your HTML skills. Feel free to modify and expand upon them based on your learning objectives.
+    </div>
+</body>
+
+</html>
